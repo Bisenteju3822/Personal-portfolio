@@ -18,8 +18,9 @@
         "name": "next"
       }
     ],
+    "baseUrl": ".",  // Ensures that non-relative paths are resolved from the project root
     "paths": {
-      "@/*": ["./*"]
+      "@/components/*": ["components/*"]  // Adjusted path mapping
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
