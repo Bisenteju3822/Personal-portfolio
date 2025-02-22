@@ -1,4 +1,4 @@
-import { Socials } from "@/constrants";
+import { Socials } from "constrants";
 import Image from "next/image";
 import React from "react";
 

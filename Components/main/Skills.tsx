@@ -4,7 +4,7 @@ import {
   Full_stack,
   Other_skill,
   Skill_data,
-} from "@/constrants"
+} from "constrants"
 import React from "react";
 import SkillDataProvider from "../sub/SkillDataProvider";
 import SkillText from "../sub/SkillText";
