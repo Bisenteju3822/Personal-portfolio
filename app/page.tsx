@@ -1,11 +1,10 @@
 //import Encryption from "@/components/main/Encryption";
-import Hero from "@/Components/main/Hero";
+import Hero from "Components/main/Hero";
 //import Projects from "@/components/main/Projects";
-import Skills from "@/Components/main/Skills";
-import Encryption from "@/Components/main/Encryption";
-import Projects from "@/Components/main/Projects";
-import Image from "next/image";
-import Footer from "@/Components/main/Footer";
+import Skills from "Components/main/Skills";
+import Encryption from "Components/main/Encryption"
+import Projects from "Components/main/Projects";
+import Footer from "Components/main/Footer";
 
 export default function Home() {
   return (
